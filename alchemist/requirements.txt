@@ -1,0 +1,2 @@
+git+git://github.com/sshwsfc/xadmin.git@django2
+djangorestframework
